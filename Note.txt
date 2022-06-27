@@ -1,0 +1,5 @@
+1.To Run Test
+$ ./vendor/bin/phpunit or $ php artisan Test
+
+2. To run specific Test
+php artisan test --filter ProductApiTest //this test only ProductApiTest file
